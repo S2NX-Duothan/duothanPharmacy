@@ -1,0 +1,13 @@
+.signin-page{
+    display: flex;
+    width: 150px;
+}
+.signin-image{
+    
+   
+    /* height: 60vw; */
+}
+.signin-info{
+    border-left: 2px black solid;
+    height:60vw;
+}
