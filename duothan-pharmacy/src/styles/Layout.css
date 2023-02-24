@@ -1,0 +1,26 @@
+.header{
+    padding: 2em;
+    background: #000;
+    color:#fff;
+}
+
+.menu{
+    padding: 2em;
+    background: rgb(54, 54, 54);
+    color:#fff;
+    height: 100%;
+    position: fixed;
+}
+
+.menu li{
+    list-style-type: none;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.sub{
+    display: flex;
+}
