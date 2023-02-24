@@ -1,0 +1,17 @@
+.packages_table{
+    margin-left: 20px;
+}
+.title_table{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-direction: row;
+    margin-top: 20px;
+}
+.btn_table{
+    margin-left: 1100px;
+}
+table{
+    margin-top: 20px;
+    border-spacing: 30px;
+}
+
