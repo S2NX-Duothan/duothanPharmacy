@@ -5,12 +5,12 @@
 }
 
 .menu{
-    padding: 2em;
-    background: rgb(54, 54, 54);
-    color:#fff;
+    padding: 2em 1.5em 2em 0;
+    background: #deebf7    ;
+    color:#000;
     height: 100%;
     position: fixed;
-    width: 120px;
+    width: 150px;
 }
 
 .menu li{
@@ -19,7 +19,13 @@
 
 .menu li a{
     text-decoration: none;
-    color: #fff;
+    color: #000;
+    border: 1px solid #9ecae1;
+    background-color: #9ecae1;
+    padding: 10px;
+    margin: 1.2em 0;
+    display: flex;
+    border-radius: 0 10px 10px 0;
 }
 
 .sub{
