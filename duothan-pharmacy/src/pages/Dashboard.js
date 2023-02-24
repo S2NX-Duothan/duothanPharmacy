@@ -12,7 +12,7 @@ const Dashboard = () => {
         <div className='btn_table'><button type="button">ADD PLAN</button></div>
       </div>
       <div className='table-table'>
-      <table>
+      <table className='drugs-table'>
          
         <tr className='table-heading'>
           <th>ID</th>
