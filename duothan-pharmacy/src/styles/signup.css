@@ -1,0 +1,40 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9ecae1;
+    width: 87vw;
+    height: 88vh;
+}
+
+.main-box{
+    background-color: #deebf7;
+    border: 2px solid black;
+    padding: 0.5em 1.5em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title, .btn-title, .btn-input{
+    margin: 7px;
+}
+
+.input-condition{
+    display: flex;
+    margin: 20px 0; 
+}
+
+.sign-in{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-in{
+    margin: 20px 0;
+}
+
+.sign-in a{
+    color: black;
+}
