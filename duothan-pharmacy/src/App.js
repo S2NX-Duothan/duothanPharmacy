@@ -9,6 +9,7 @@ import AddNewDrug from './pages/AddNewDrug';
 import Signin from './pages/Signin';
 import Signup from './pages/Signup';
 import NoPage from './pages/NoPage';
+import Search from './pages/Search';
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="Signin" element={<Signin />} />
           <Route path="Signup" element={<Signup />} />
           <Route path="*" element={<NoPage />} />
+          <Route path="Search" element={<Search />} />
         </Route>
       </Routes>
     </BrowserRouter>
